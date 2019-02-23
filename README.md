@@ -8,4 +8,6 @@ Se hicieron algunos lanzamientos cambiando diferentes variables como la fuerza d
 
 - Lo previamente mencionado aplica con las demás canicas también, es decir, mientras más rápido golpee la primera canica a la segunda, mayor será la velocidad con la que la segunda canica sale disparada, y una mayor masa en la segunda canica representará una mayor dificultada para mover dicha canica.
 
-- El impacto con la segunda canica disminuye la velocidad de la primera, por lo que para cuando la canica inicial impacta con la tercera, su velocidad será menor que la que tenía originalmente.
+- El impacto con la segunda canica disminuye la velocidad de la primera, por lo que para cuando la canica inicial impacte con la tercera, su velocidad será menor que la que tenía originalmente.
+
+- Si se le da un valor de Linear Drag a las canicas, irán perdiendo velocidad a medida que avanzan, de lo contrario mantienen una velocidad fija hasta que impacten con otra canica.
