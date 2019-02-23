@@ -11,3 +11,5 @@ Se hicieron algunos lanzamientos cambiando diferentes variables como la fuerza d
 - El impacto con la segunda canica disminuye la velocidad de la primera, por lo que para cuando la canica inicial impacte con la tercera, su velocidad será menor que la que tenía originalmente.
 
 - Si se le da un valor de Linear Drag a las canicas, irán perdiendo velocidad a medida que avanzan, de lo contrario mantienen una velocidad fija hasta que impacten con otra canica.
+
+- En la mayoría de las pruebas, el impulso dado a la primera canica fue suficiente para causar que las tres canicas cayeran. La primera golpeaba a la segunda, y la segunda a la tercera.
